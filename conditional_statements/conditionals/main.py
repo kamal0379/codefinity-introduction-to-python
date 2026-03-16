@@ -7,8 +7,8 @@ elif product_type == "Vegetables" and day_of_week == "Tuesday":
     print("15% discount on Vegetables today!")
 elif product_type == "Dairy" and day_of_week == "Wednesday":
     print("20% discount on Dairy today!")
-elif product_type =="other":
+elif product_type =="Other":
     print("No discount available.")
 else:
-    print("No special discounts today..")
+    print("No special discounts today.")
     
